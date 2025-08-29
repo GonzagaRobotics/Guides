@@ -5,10 +5,13 @@
 2. [Contacting Club Members](#contacting-club-members)
 3. [Member Recruitment and Retention](#member-recruitment-and-retention)
 4. [Funding](#funding)
-	1. [Fundraising](#fundraising)
-	2. [GSBA Funds](#gsba-funds)
-	3. [SEAS Funds](#seas-funds)
+	1. [GSBA Funds](#gsba-funds)
+	2. [SEAS Funds](#seas-funds)
 5. [Ordering](#ordering)
+	1. [Fundraising](#fundraising)
+	2. [SEAS Club Council](#seas-club-council)
+	3. [Donor Letters](#donor-letters)
+	4. [Restaurant Fundraisers](#restaurant-fundraisers)
 6. [Inventory](#inventory)
 7. [Club Managed Accounts](#club-managed-accounts)
 8. [Service Events](#service-events)
@@ -39,13 +42,15 @@ Generally, there are two sources of funds available that can be accessed, [GSBA 
 ### GSBA Funds
 Heed the following warning:
 
-**GSBA does not share your values or the club's. They do not share your work ethic. They do not have your technical knowledge. They do not share your sense of urgency, your deadlines, or your level of commitment to this club. Never assume they'll show initiative, especially with regards to club funding.**
+**GSBA does not share your values or the club's. They do not share your work ethic. They do not have your technical knowledge. They do not share your sense of urgency, your deadlines, or your commitment to this club. Never assume they'll show initiative, especially with regards to club funding.**
 
 That being said,
 
 GSBA will give up to $3,000 to clubs, subject to several restrictions.
 - no more than 50% of this can be spent on travel
--
+- funds can't be used to purchase items such as direct gifts, gift cards, etc. (not typical, but sometimes we want to have a prize for a club competition)
+- food/catering has additional restrictions and catering generally must be through Sodexo
+
 This list may be incomplete or out of date. Always refer to the most recent GSBA funding guidelines before making decisions. I'm not aware of where these can be found online, but a paper copies can be found in the CSI office (Hemmingson 304).
 
 To obtain some of these funds from GSBA, submit a **funding** request. GSBA policy is to automatically deny purchase requests submitted from SEAS clubs. This is because purchase requests are intended for clubs to use money that GSBA *stores* for them to buy items, rather than request funding. As a SEAS club, SEAS holds on to our money, not GSBA (see the [SEAS Funds](#seas-funds) section of this document for more information). This information is not included on the current GSBA funding guidelines document. Funding requests are (supposed to be) deliberated on Mondays at 5:30PM in a private meeting. If a funding request exceeds $2,100, this is instead deliberated by the GSBA Senate, which meets publically. GSBA has estimated a 2-3 week response time for funding requests under $2,100, and about a month or more for requests in excess of $2,100. **It's strongly recommended to stay under $2,100 for funding requests.** If it's necessary to exceed this, consider going to the public GSBA senate meetings to determine whether the request has been deliberated on and justify our request.
@@ -112,15 +117,18 @@ There are likely other nearby restaurants that have similar fundraising schemes.
 
 ## Inventory
 
-We do, in fact, have stuff. Some of what we own is even written down for internal use.
+Currently, the most up to date inventory managment is a folder in Herak 104A containing a printed spreadsheet with penciled in additions. This document is periodically used to update the digital version of our inventory list. This folder also contains signed descriptions of periodical maintenance done (e.g. disposing of waste, ensuring batteries are charged). These document and related templates can be found within the General channel files under the ["Part Inventory"](https://gonzagau.sharepoint.com/sites/GonzagaRobotics/Shared%20Documents/Forms/AllItems.aspx?login_hint=ljohnston4%40zagmail%2Egonzaga%2Eedu&FolderCTID=0x012000F946AF86BA65CA4A99680689FB4C9DC7&id=%2Fsites%2FGonzagaRobotics%2FShared%20Documents%2FGeneral%2FPart%20Inventory) folder. Currently, there has been some work done to specifically catelogue how much of each item we have, with relevant templates done and a few filled out, but this is ongoing and may be overly pedantic.
 
 ## Club Managed Accounts
 
-GU Robotics manages several email and social media accounts.
+GU Robotics manages several email and social media accounts. An up to date list of these and their passwords can be found within the Leadership Teams channel in [Logins.docx](https://gonzagau.sharepoint.com/:w:/r/sites/GonzagaRobotics-Leadership/_layouts/15/doc2.aspx?sourcedoc=%7B1B7211A1-4BB2-433E-A8D4-EAE6DC5A74FC%7D&file=Logins.docx&action=default&mobileredirect=true&DefaultItemOpen=1&ct=1756443201500&wdOrigin=OFFICECOM-WEB.MAIN.EDGEWORTH&cid=9cc27efe-f45d-4003-995a-064e23ba5f83&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=836ccbeb-0127-495a-846e-60a45b71f9f8).
 
 ## Service Events
 
 GSBA requires the club to volunteer together for (at least) 2 hours every semester, and to record these on Zagtivities. Club members can record their own service hours, or club leadership can do it for them. If club leadership records service hours, they are automatically approved. In Zagtivities, click on the GU Robotics icon and click 'Service Hours' in the pop-up menu. Then click 'Add Service Hours' to log hours for club members.
+
+Based on prior experience, **it's strongly recommended to have service events earlier in the year and to ensure they're at times with the maximum possible member availability**. This is to ensure a maximum number of club members are able to attend a service event.
+
 
 ## Beginning of Year Actions
 
