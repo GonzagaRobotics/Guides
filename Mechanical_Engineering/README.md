@@ -94,7 +94,7 @@ Their primary purpose, however, is manufacturing. **Part drawings should be crea
     - A note about the default unit system used
     - The total amount of sheets in this drawing document, as well as what sheet each page is
 - At least one dimension to establish scale 
-    - for laser cut, 3D printed, or plasma cut parts it may not be strictly necessary to include all dimensions on a drawing. However, including at least one makes
+    - for laser cut, 3D printed, or plasma cut parts it may not be strictly necessary to include all dimensions on a drawing if they're controlled by a model instead. However, including at least one ensures models are imported at the correct scale during manufacturing
 
 Drawings *should*:
 - Be neat and legible, with dimensions and notes being organized to be as readable as possible
